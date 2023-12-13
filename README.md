@@ -1,1 +1,1 @@
-# QA_Proj_Cypress_Amazon
+# QA_Prac_Cypress_Amazon.
